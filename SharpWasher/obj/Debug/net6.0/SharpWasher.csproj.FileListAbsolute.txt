@@ -1,0 +1,15 @@
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.csproj.AssemblyReference.cache
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.AssemblyInfoInputs.cache
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.AssemblyInfo.cs
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Labs\SharpWasher\bin\Debug\net6.0\SharpWasher.exe
+C:\Labs\SharpWasher\bin\Debug\net6.0\SharpWasher.deps.json
+C:\Labs\SharpWasher\bin\Debug\net6.0\SharpWasher.runtimeconfig.json
+C:\Labs\SharpWasher\bin\Debug\net6.0\SharpWasher.dll
+C:\Labs\SharpWasher\bin\Debug\net6.0\ref\SharpWasher.dll
+C:\Labs\SharpWasher\bin\Debug\net6.0\SharpWasher.pdb
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.dll
+C:\Labs\SharpWasher\obj\Debug\net6.0\ref\SharpWasher.dll
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.pdb
+C:\Labs\SharpWasher\obj\Debug\net6.0\SharpWasher.genruntimeconfig.cache
