@@ -1,0 +1,16 @@
+C:\Labs\Lab8\bin\Debug\Lab8.exe.config
+C:\Labs\Lab8\bin\Debug\Lab8.exe
+C:\Labs\Lab8\bin\Debug\Lab8.pdb
+C:\Labs\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Labs\Lab8\obj\Debug\Lab8.csproj.SuggestedBindingRedirects.cache
+C:\Labs\Lab8\obj\Debug\Lab8.Form1.resources
+C:\Labs\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Labs\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Labs\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Labs\Lab8\obj\Debug\Lab8.exe
+C:\Labs\Lab8\obj\Debug\Lab8.pdb
+C:\Labs\Lab8\bin\Debug\Interop.WMPLib.dll
+C:\Labs\Lab8\bin\Debug\AxInterop.WMPLib.dll
+C:\Labs\Lab8\obj\Debug\Interop.WMPLib.dll
+C:\Labs\Lab8\obj\Debug\AxInterop.WMPLib.dll
+C:\Labs\Lab8\obj\Debug\Lab8.csproj.ResolveComReference.cache
